@@ -12,5 +12,5 @@ app.get('/echo/:word?',(req, res)=>{
 })
 
 app.listen(8000,()=>{
-    console.log("App is listening on 8000");
+    console.log("App is listening on 8000. :-)");
 })
